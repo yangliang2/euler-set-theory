@@ -1,9 +1,9 @@
 {
   "project": "euler-set-theory",
   "total": 500,
-  "completed": 450,
-  "currentBatch": 9,
-  "currentProblem": 0,
+  "completed": 500,
+  "currentBatch": 10,
+  "currentProblem": 500,
   "batches": [
     {
       "batch": 1,
@@ -72,11 +72,12 @@
       "batch": 10,
       "range": "451-500",
       "theme": "综合挑战",
-      "status": "pending",
-      "completed": 0
+      "status": "completed",
+      "completed": 50
     }
   ],
   "startTime": "2026-02-15T18:10:01+08:00",
-  "lastUpdate": "2026-02-15T19:35:01+08:00",
-  "dependsOn": "euler-combinatorics"
+  "lastUpdate": "2026-02-15T19:45:01+08:00",
+  "dependsOn": "euler-combinatorics",
+  "completedTime": "2026-02-15T11:45:00+00:00"
 }
