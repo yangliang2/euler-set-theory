@@ -1,8 +1,8 @@
 {
   "project": "euler-set-theory",
   "total": 500,
-  "completed": 400,
-  "currentBatch": 8,
+  "completed": 450,
+  "currentBatch": 9,
   "currentProblem": 0,
   "batches": [
     {
@@ -65,8 +65,8 @@
       "batch": 9,
       "range": "401-450",
       "theme": "滤子与理想",
-      "status": "pending",
-      "completed": 0
+      "status": "completed",
+      "completed": 50
     },
     {
       "batch": 10,
@@ -77,6 +77,6 @@
     }
   ],
   "startTime": "2026-02-15T18:10:01+08:00",
-  "lastUpdate": "2026-02-15T19:27:55+08:00",
+  "lastUpdate": "2026-02-15T19:35:01+08:00",
   "dependsOn": "euler-combinatorics"
 }
