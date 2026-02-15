@@ -1,7 +1,7 @@
 {
   "project": "euler-set-theory",
   "total": 500,
-  "completed": 350,
+  "completed": 400,
   "currentBatch": 8,
   "currentProblem": 0,
   "batches": [
@@ -58,8 +58,8 @@
       "batch": 8,
       "range": "351-400",
       "theme": "选择公理",
-      "status": "pending",
-      "completed": 0
+      "status": "completed",
+      "completed": 50
     },
     {
       "batch": 9,
@@ -77,6 +77,6 @@
     }
   ],
   "startTime": "2026-02-15T18:10:01+08:00",
-  "lastUpdate": "2026-02-15T19:30:01+08:00",
+  "lastUpdate": "2026-02-15T19:27:55+08:00",
   "dependsOn": "euler-combinatorics"
 }
