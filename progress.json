@@ -1,0 +1,22 @@
+{
+  "project": "euler-set-theory",
+  "total": 500,
+  "completed": 0,
+  "currentBatch": 1,
+  "currentProblem": 0,
+  "batches": [
+    {"batch": 1, "range": "001-050", "theme": "集合基础", "status": "pending", "completed": 0},
+    {"batch": 2, "range": "051-100", "theme": "集合运算", "status": "pending", "completed": 0},
+    {"batch": 3, "range": "101-150", "theme": "映射与函数", "status": "pending", "completed": 0},
+    {"batch": 4, "range": "151-200", "theme": "关系", "status": "pending", "completed": 0},
+    {"batch": 5, "range": "201-250", "theme": "无穷集合", "status": "pending", "completed": 0},
+    {"batch": 6, "range": "251-300", "theme": "基数理论", "status": "pending", "completed": 0},
+    {"batch": 7, "range": "301-350", "theme": "序数理论", "status": "pending", "completed": 0},
+    {"batch": 8, "range": "351-400", "theme": "选择公理", "status": "pending", "completed": 0},
+    {"batch": 9, "range": "401-450", "theme": "滤子与理想", "status": "pending", "completed": 0},
+    {"batch": 10, "range": "451-500", "theme": "综合挑战", "status": "pending", "completed": 0}
+  ],
+  "startTime": null,
+  "lastUpdate": null,
+  "dependsOn": "euler-combinatorics"
+}
